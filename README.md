@@ -29,14 +29,13 @@ conda create -n tf python=3.8
 When prompted for confirmation, type y and press Enter.
 Activate the Environment
 
-sh
-Copy code
+```sh
 conda activate tf
 Navigate to the Project Directory
 
-sh
+```sh
 cd /path/to/your/project/directory
 Run the Application
 
-sh
+```sh
 python Runfile.py
