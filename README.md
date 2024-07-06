@@ -31,6 +31,7 @@ Activate the Environment
 
 ```sh
 conda activate tf
+sh
 Navigate to the Project Directory
 
 ```sh
