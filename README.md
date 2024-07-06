@@ -16,10 +16,16 @@ This project is based on a biometric authentication system using a real-time fac
 ### Installation Steps
 
 1. **Install Python Libraries**
-
    Open a terminal and install the following Python libraries:
+   
    ```
-   pip install pandas seaborn numpy opencv_contrib_python imutils scikit-learn pillow
+   pip install pandas
+   pip install seaborn
+   pip install numpy
+   pip install opencv_contrib_python
+   pip install imutils
+   pip install scikit-learn
+   pip install pillow
 
 2. **Set Up Anaconda Environment**
    Open Anaconda Prompt and run the following commands:
