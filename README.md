@@ -15,7 +15,7 @@ This project is based on a biometric authentication system using a real-time fac
 
 ### Installation Steps
 
-1. **Install Python Libraries**
+1. **Install Python Libraries** '\n'
    Open a terminal and install the following Python libraries:
    
    ```
@@ -27,7 +27,7 @@ This project is based on a biometric authentication system using a real-time fac
    pip install scikit-learn
    pip install pillow
 
-2. **Set Up Anaconda Environment**
+2. **Set Up Anaconda Environment** '\n'
    Open Anaconda Prompt and run the following commands:
 
    ```
