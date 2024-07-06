@@ -21,15 +21,14 @@ This project is based on a biometric authentication system using a real-time fac
    ```sh
    pip install pandas seaborn numpy opencv_contrib_python imutils scikit-learn pillow
 Set Up Anaconda Environment
-
 Open Anaconda Prompt and run the following commands:
 
-
+```sh
 conda create -n tf python=3.8
+
 When prompted for confirmation, type y and press Enter.
 Activate the Environment
 
-```sh
 conda activate tf
 sh
 Navigate to the Project Directory
