@@ -26,7 +26,7 @@ This project is based on a biometric authentication system using a real-time fac
 
    ```
    conda create -n tf python=3.8
-
+   ```
     When prompted for confirmation, type y and press Enter.
 
 3. **Activate the Environment**
